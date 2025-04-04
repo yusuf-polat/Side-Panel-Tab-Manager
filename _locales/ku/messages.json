@@ -1,0 +1,127 @@
+{
+  "extensionName": {
+    "message": "Rêveberê Hilpekînên Panela Kêlekê",
+    "description": "Navê pêvekê"
+  },
+  "extensionDescription": {
+    "message": "Ji bo pirkariyeke çêtir hilpekînan di panela kêlekê ya Chrome de veke",
+    "description": "Danasîna pêvekê"
+  },
+  "newTab": {
+    "message": "Hilpekîna Nû",
+    "description": "Nivîsa ji bo çêkirina hilpekîneke nû"
+  },
+  "welcome": {
+    "message": "Bi xêr hatî Rêveberê Hilpekînên Panela Kêlekê",
+    "description": "Peyama xêrhatinê"
+  },
+  "welcomeInstructions": {
+    "message": "Ji bo vekirina hilpekîneke nû di panela kêlekê de li bişkoka '+' ya li jorê bitikîne",
+    "description": "Rêberiyên li ser ekrana xêrhatinê"
+  },
+  "openCurrentTab": {
+    "message": "Hilpekîna Heyî Li Vir Veke",
+    "description": "Bişkoka ji bo vekirina hilpekîna heyî di panela kêlekê de"
+  },
+  "back": {
+    "message": "Paş",
+    "description": "Bişkoka navîgasyona paş"
+  },
+  "forward": {
+    "message": "Pêş",
+    "description": "Bişkoka navîgasyona pêş"
+  },
+  "refresh": {
+    "message": "Nûkirin",
+    "description": "Bişkoka nûkirinê"
+  },
+  "settings": {
+    "message": "Mîheng",
+    "description": "Bişkoka mîhengan"
+  },
+  "settingsTitle": {
+    "message": "Mîheng",
+    "description": "Sernavê ji bo rûpela mîhengan"
+  },
+  "searchEngine": {
+    "message": "Motora Lêgerînê",
+    "description": "Beşa mîhengên motora lêgerînê"
+  },
+  "defaultSearchEngine": {
+    "message": "Motora Lêgerînê ya Standart:",
+    "description": "Etîketa ji bo mîhenga motora lêgerînê ya standart"
+  },
+  "appearance": {
+    "message": "Xuyang",
+    "description": "Beşa mîhengên xuyangê"
+  },
+  "theme": {
+    "message": "Rûkar:",
+    "description": "Etîketa ji bo mîhenga rûkarê"
+  },
+  "light": {
+    "message": "Ronak",
+    "description": "Vebijêrka rûkarê ronak"
+  },
+  "dark": {
+    "message": "Tarî",
+    "description": "Vebijêrka rûkarê tarî"
+  },
+  "save": {
+    "message": "Tomarkirin",
+    "description": "Bişkoka tomarkirinê"
+  },
+  "cancel": {
+    "message": "Betal",
+    "description": "Bişkoka betalkirinê"
+  },
+  "restrictedPageTitle": {
+    "message": "Ev rûpel nikare di panela kêlekê de were vekirin",
+    "description": "Sernavê ji bo peyama rûpela sînorkirî"
+  },
+  "restrictedPageDescription": {
+    "message": "Gmail, Google Drive û hin malperên ewle ji ber sedemên ewlehiyê di panela kêlekê de sînorkirî ne.",
+    "description": "Danasîna ji bo rûpela sînorkirî"
+  },
+  "openInRegularTab": {
+    "message": "Ji kerema xwe vê rûpelê di hilpekîneke normal de vekin.",
+    "description": "Rêberî ji bo rûpela sînorkirî"
+  },
+  "searchWeb": {
+    "message": "Li Webê Bigere",
+    "description": "Sernavê beşa lêgerîna webê"
+  },
+  "searchPlaceholder": {
+    "message": "Li webê bigere...",
+    "description": "Cihgir ji bo têketina lêgerînê"
+  },
+  "errorLoadingPage": {
+    "message": "Ev rûpel di panela kêlekê de bi rêkûpêk naxebite.",
+    "description": "Peyama çewtiyê dema ku rûpel bar nabe"
+  },
+  "restrictedSites": {
+    "message": "Gmail, Google Drive û hin malperên ewle dibe ku di panela kêlekê de sînorkirî bin.",
+    "description": "Ravekirin ji bo çewtiya barkirina rûpelê"
+  },
+  "retry": {
+    "message": "Dîsa Biceribîne",
+    "description": "Bişkoka dîsa ceribandina"
+  },
+  "welcomeNotificationTitle": {
+    "message": "Rêveberê Hilpekînên Panela Kêlekê",
+    "description": "Sernavê ji bo hişyariya xêrhatinê"
+  },
+  "welcomeNotificationMessage": {
+    "message": "Pêvek bi serkeftî hat sazkirin. Ji bo vekirina hilpekînan di panela kêlekê de li îkona pêvekê bitikîne.",
+    "description": "Peyam ji bo hişyariya xêrhatinê"
+  },
+  "restrictedNotificationTitle": {
+    "message": "Rêveberê Hilpekînên Panela Kêlekê",
+    "description": "Sernavê ji bo hişyariya rûpela sînorkirî"
+  },
+  "restrictedNotificationMessage": {
+    "message": "Ev rûpel nikare di panela kêlekê de were vekirin.",
+    "description": "Peyam ji bo hişyariya rûpela sînorkirî"
+  }
+}
+

@@ -1,0 +1,127 @@
+{
+  "extensionName": {
+    "message": "Gestionnaire d'Onglets du Panneau Latéral",
+    "description": "Le nom de l'extension"
+  },
+  "extensionDescription": {
+    "message": "Ouvrez des onglets dans le panneau latéral de Chrome pour un meilleur multitâche",
+    "description": "La description de l'extension"
+  },
+  "newTab": {
+    "message": "Nouvel Onglet",
+    "description": "Texte pour créer un nouvel onglet"
+  },
+  "welcome": {
+    "message": "Bienvenue dans le Gestionnaire d'Onglets du Panneau Latéral",
+    "description": "Message de bienvenue"
+  },
+  "welcomeInstructions": {
+    "message": "Cliquez sur le bouton '+' ci-dessus pour ouvrir un nouvel onglet dans le panneau latéral",
+    "description": "Instructions sur l'écran de bienvenue"
+  },
+  "openCurrentTab": {
+    "message": "Ouvrir l'Onglet Actuel Ici",
+    "description": "Bouton pour ouvrir l'onglet actuel dans le panneau latéral"
+  },
+  "back": {
+    "message": "Retour",
+    "description": "Bouton de navigation retour"
+  },
+  "forward": {
+    "message": "Avancer",
+    "description": "Bouton de navigation avant"
+  },
+  "refresh": {
+    "message": "Actualiser",
+    "description": "Bouton d'actualisation"
+  },
+  "settings": {
+    "message": "Paramètres",
+    "description": "Bouton des paramètres"
+  },
+  "settingsTitle": {
+    "message": "Paramètres",
+    "description": "Titre pour la page des paramètres"
+  },
+  "searchEngine": {
+    "message": "Moteur de Recherche",
+    "description": "Section des paramètres du moteur de recherche"
+  },
+  "defaultSearchEngine": {
+    "message": "Moteur de Recherche par Défaut:",
+    "description": "Étiquette pour le paramètre du moteur de recherche par défaut"
+  },
+  "appearance": {
+    "message": "Apparence",
+    "description": "Section des paramètres d'apparence"
+  },
+  "theme": {
+    "message": "Thème:",
+    "description": "Étiquette pour le paramètre de thème"
+  },
+  "light": {
+    "message": "Clair",
+    "description": "Option de thème clair"
+  },
+  "dark": {
+    "message": "Sombre",
+    "description": "Option de thème sombre"
+  },
+  "save": {
+    "message": "Enregistrer",
+    "description": "Bouton d'enregistrement"
+  },
+  "cancel": {
+    "message": "Annuler",
+    "description": "Bouton d'annulation"
+  },
+  "restrictedPageTitle": {
+    "message": "Cette page ne peut pas être ouverte dans le panneau latéral",
+    "description": "Titre pour le message de page restreinte"
+  },
+  "restrictedPageDescription": {
+    "message": "Gmail, Google Drive et certains sites sécurisés sont restreints dans le panneau latéral pour des raisons de sécurité.",
+    "description": "Description pour la page restreinte"
+  },
+  "openInRegularTab": {
+    "message": "Veuillez ouvrir cette page dans un onglet normal.",
+    "description": "Instruction pour la page restreinte"
+  },
+  "searchWeb": {
+    "message": "Rechercher sur le Web",
+    "description": "Titre de la section de recherche web"
+  },
+  "searchPlaceholder": {
+    "message": "Rechercher sur le web...",
+    "description": "Placeholder pour l'entrée de recherche"
+  },
+  "errorLoadingPage": {
+    "message": "Cette page ne fonctionne pas correctement dans le panneau latéral.",
+    "description": "Message d'erreur lorsque la page ne se charge pas"
+  },
+  "restrictedSites": {
+    "message": "Gmail, Google Drive et certains sites sécurisés peuvent être restreints dans le panneau latéral.",
+    "description": "Explication pour l'erreur de chargement de page"
+  },
+  "retry": {
+    "message": "Réessayer",
+    "description": "Bouton pour réessayer"
+  },
+  "welcomeNotificationTitle": {
+    "message": "Gestionnaire d'Onglets du Panneau Latéral",
+    "description": "Titre pour la notification de bienvenue"
+  },
+  "welcomeNotificationMessage": {
+    "message": "Extension installée avec succès. Cliquez sur l'icône de l'extension pour ouvrir des onglets dans le panneau latéral.",
+    "description": "Message pour la notification de bienvenue"
+  },
+  "restrictedNotificationTitle": {
+    "message": "Gestionnaire d'Onglets du Panneau Latéral",
+    "description": "Titre pour la notification de page restreinte"
+  },
+  "restrictedNotificationMessage": {
+    "message": "Cette page ne peut pas être ouverte dans le panneau latéral.",
+    "description": "Message pour la notification de page restreinte"
+  }
+}
+

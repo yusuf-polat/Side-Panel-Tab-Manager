@@ -1,0 +1,127 @@
+{
+  "extensionName": {
+    "message": "Seitenleisten-Tab-Manager",
+    "description": "Der Name der Erweiterung"
+  },
+  "extensionDescription": {
+    "message": "Öffnen Sie Tabs in der Chrome-Seitenleiste für besseres Multitasking",
+    "description": "Die Beschreibung der Erweiterung"
+  },
+  "newTab": {
+    "message": "Neuer Tab",
+    "description": "Text für das Erstellen eines neuen Tabs"
+  },
+  "welcome": {
+    "message": "Willkommen beim Seitenleisten-Tab-Manager",
+    "description": "Willkommensnachricht"
+  },
+  "welcomeInstructions": {
+    "message": "Klicken Sie auf die '+'-Schaltfläche oben, um einen neuen Tab in der Seitenleiste zu öffnen",
+    "description": "Anweisungen auf dem Willkommensbildschirm"
+  },
+  "openCurrentTab": {
+    "message": "Aktuellen Tab hier öffnen",
+    "description": "Schaltfläche zum Öffnen des aktuellen Tabs in der Seitenleiste"
+  },
+  "back": {
+    "message": "Zurück",
+    "description": "Zurück-Navigationsschaltfläche"
+  },
+  "forward": {
+    "message": "Vorwärts",
+    "description": "Vorwärts-Navigationsschaltfläche"
+  },
+  "refresh": {
+    "message": "Aktualisieren",
+    "description": "Aktualisieren-Schaltfläche"
+  },
+  "settings": {
+    "message": "Einstellungen",
+    "description": "Einstellungen-Schaltfläche"
+  },
+  "settingsTitle": {
+    "message": "Einstellungen",
+    "description": "Titel für die Einstellungsseite"
+  },
+  "searchEngine": {
+    "message": "Suchmaschine",
+    "description": "Suchmaschinen-Einstellungsbereich"
+  },
+  "defaultSearchEngine": {
+    "message": "Standard-Suchmaschine:",
+    "description": "Beschriftung für die Standard-Suchmaschineneinstellung"
+  },
+  "appearance": {
+    "message": "Erscheinungsbild",
+    "description": "Erscheinungsbild-Einstellungsbereich"
+  },
+  "theme": {
+    "message": "Thema:",
+    "description": "Beschriftung für die Themeneinstellung"
+  },
+  "light": {
+    "message": "Hell",
+    "description": "Helles Thema Option"
+  },
+  "dark": {
+    "message": "Dunkel",
+    "description": "Dunkles Thema Option"
+  },
+  "save": {
+    "message": "Speichern",
+    "description": "Speichern-Schaltfläche"
+  },
+  "cancel": {
+    "message": "Abbrechen",
+    "description": "Abbrechen-Schaltfläche"
+  },
+  "restrictedPageTitle": {
+    "message": "Diese Seite kann nicht in der Seitenleiste geöffnet werden",
+    "description": "Titel für die eingeschränkte Seitenmeldung"
+  },
+  "restrictedPageDescription": {
+    "message": "Gmail, Google Drive und einige sichere Websites sind aus Sicherheitsgründen in der Seitenleiste eingeschränkt.",
+    "description": "Beschreibung für eingeschränkte Seite"
+  },
+  "openInRegularTab": {
+    "message": "Bitte öffnen Sie diese Seite in einem regulären Tab.",
+    "description": "Anweisung für eingeschränkte Seite"
+  },
+  "searchWeb": {
+    "message": "Web durchsuchen",
+    "description": "Titel des Web-Suchbereichs"
+  },
+  "searchPlaceholder": {
+    "message": "Web durchsuchen...",
+    "description": "Platzhalter für Sucheingabe"
+  },
+  "errorLoadingPage": {
+    "message": "Diese Seite funktioniert nicht richtig in der Seitenleiste.",
+    "description": "Fehlermeldung, wenn die Seite nicht geladen werden kann"
+  },
+  "restrictedSites": {
+    "message": "Gmail, Google Drive und einige sichere Websites können in der Seitenleiste eingeschränkt sein.",
+    "description": "Erklärung für Seitenladefehler"
+  },
+  "retry": {
+    "message": "Wiederholen",
+    "description": "Wiederholen-Schaltfläche"
+  },
+  "welcomeNotificationTitle": {
+    "message": "Seitenleisten-Tab-Manager",
+    "description": "Titel für Willkommensbenachrichtigung"
+  },
+  "welcomeNotificationMessage": {
+    "message": "Erweiterung erfolgreich installiert. Klicken Sie auf das Erweiterungssymbol, um Tabs in der Seitenleiste zu öffnen.",
+    "description": "Nachricht für Willkommensbenachrichtigung"
+  },
+  "restrictedNotificationTitle": {
+    "message": "Seitenleisten-Tab-Manager",
+    "description": "Titel für eingeschränkte Seitenbenachrichtigung"
+  },
+  "restrictedNotificationMessage": {
+    "message": "Diese Seite kann nicht in der Seitenleiste geöffnet werden.",
+    "description": "Nachricht für eingeschränkte Seitenbenachrichtigung"
+  }
+}
+

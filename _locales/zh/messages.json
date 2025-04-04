@@ -1,0 +1,127 @@
+{
+  "extensionName": {
+    "message": "侧边栏标签管理器",
+    "description": "扩展的名称"
+  },
+  "extensionDescription": {
+    "message": "在Chrome的侧边栏中打开标签页，实现更好的多任务处理",
+    "description": "扩展的描述"
+  },
+  "newTab": {
+    "message": "新标签页",
+    "description": "创建新标签页的文本"
+  },
+  "welcome": {
+    "message": "欢迎使用侧边栏标签管理器",
+    "description": "欢迎信息"
+  },
+  "welcomeInstructions": {
+    "message": "点击上方的'+'按钮在侧边栏中打开新标签页",
+    "description": "欢迎屏幕上的说明"
+  },
+  "openCurrentTab": {
+    "message": "在此处打开当前标签页",
+    "description": "在侧边栏中打开当前标签页的按钮"
+  },
+  "back": {
+    "message": "后退",
+    "description": "后退导航按钮"
+  },
+  "forward": {
+    "message": "前进",
+    "description": "前进导航按钮"
+  },
+  "refresh": {
+    "message": "刷新",
+    "description": "刷新按钮"
+  },
+  "settings": {
+    "message": "设置",
+    "description": "设置按钮"
+  },
+  "settingsTitle": {
+    "message": "设置",
+    "description": "设置页面的标题"
+  },
+  "searchEngine": {
+    "message": "搜索引擎",
+    "description": "搜索引擎设置部分"
+  },
+  "defaultSearchEngine": {
+    "message": "默认搜索引擎：",
+    "description": "默认搜索引擎设置的标签"
+  },
+  "appearance": {
+    "message": "外观",
+    "description": "外观设置部分"
+  },
+  "theme": {
+    "message": "主题：",
+    "description": "主题设置的标签"
+  },
+  "light": {
+    "message": "浅色",
+    "description": "浅色主题选项"
+  },
+  "dark": {
+    "message": "深色",
+    "description": "深色主题选项"
+  },
+  "save": {
+    "message": "保存",
+    "description": "保存按钮"
+  },
+  "cancel": {
+    "message": "取消",
+    "description": "取消按钮"
+  },
+  "restrictedPageTitle": {
+    "message": "此页面无法在侧边栏中打开",
+    "description": "受限页面消息的标题"
+  },
+  "restrictedPageDescription": {
+    "message": "出于安全原因，Gmail、Google Drive和一些安全网站在侧边栏中受到限制。",
+    "description": "受限页面的描述"
+  },
+  "openInRegularTab": {
+    "message": "请在常规标签页中打开此页面。",
+    "description": "受限页面的指示"
+  },
+  "searchWeb": {
+    "message": "搜索网页",
+    "description": "搜索网页部分标题"
+  },
+  "searchPlaceholder": {
+    "message": "搜索网页...",
+    "description": "搜索输入的占位符"
+  },
+  "errorLoadingPage": {
+    "message": "此页面在侧边栏中无法正常工作。",
+    "description": "页面加载失败时的错误消息"
+  },
+  "restrictedSites": {
+    "message": "Gmail、Google Drive和一些安全网站可能在侧边栏中受到限制。",
+    "description": "页面加载错误的解释"
+  },
+  "retry": {
+    "message": "重试",
+    "description": "重试按钮"
+  },
+  "welcomeNotificationTitle": {
+    "message": "侧边栏标签管理器",
+    "description": "欢迎通知的标题"
+  },
+  "welcomeNotificationMessage": {
+    "message": "扩展安装成功。点击扩展图标在侧边栏中打开标签页。",
+    "description": "欢迎通知的消息"
+  },
+  "restrictedNotificationTitle": {
+    "message": "侧边栏标签管理器",
+    "description": "受限页面通知的标题"
+  },
+  "restrictedNotificationMessage": {
+    "message": "此页面无法在侧边栏中打开。",
+    "description": "受限页面通知的消息"
+  }
+}
+

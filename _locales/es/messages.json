@@ -1,0 +1,127 @@
+{
+  "extensionName": {
+    "message": "Administrador de Pestañas del Panel Lateral",
+    "description": "El nombre de la extensión"
+  },
+  "extensionDescription": {
+    "message": "Abra pestañas en el panel lateral de Chrome para una mejor multitarea",
+    "description": "La descripción de la extensión"
+  },
+  "newTab": {
+    "message": "Nueva Pestaña",
+    "description": "Texto para crear una nueva pestaña"
+  },
+  "welcome": {
+    "message": "Bienvenido al Administrador de Pestañas del Panel Lateral",
+    "description": "Mensaje de bienvenida"
+  },
+  "welcomeInstructions": {
+    "message": "Haga clic en el botón '+' arriba para abrir una nueva pestaña en el panel lateral",
+    "description": "Instrucciones en la pantalla de bienvenida"
+  },
+  "openCurrentTab": {
+    "message": "Abrir Pestaña Actual Aquí",
+    "description": "Botón para abrir la pestaña actual en el panel lateral"
+  },
+  "back": {
+    "message": "Atrás",
+    "description": "Botón de navegación hacia atrás"
+  },
+  "forward": {
+    "message": "Adelante",
+    "description": "Botón de navegación hacia adelante"
+  },
+  "refresh": {
+    "message": "Actualizar",
+    "description": "Botón de actualizar"
+  },
+  "settings": {
+    "message": "Configuración",
+    "description": "Botón de configuración"
+  },
+  "settingsTitle": {
+    "message": "Configuración",
+    "description": "Título para la página de configuración"
+  },
+  "searchEngine": {
+    "message": "Motor de Búsqueda",
+    "description": "Sección de configuración del motor de búsqueda"
+  },
+  "defaultSearchEngine": {
+    "message": "Motor de Búsqueda Predeterminado:",
+    "description": "Etiqueta para la configuración del motor de búsqueda predeterminado"
+  },
+  "appearance": {
+    "message": "Apariencia",
+    "description": "Sección de configuración de apariencia"
+  },
+  "theme": {
+    "message": "Tema:",
+    "description": "Etiqueta para la configuración del tema"
+  },
+  "light": {
+    "message": "Claro",
+    "description": "Opción de tema claro"
+  },
+  "dark": {
+    "message": "Oscuro",
+    "description": "Opción de tema oscuro"
+  },
+  "save": {
+    "message": "Guardar",
+    "description": "Botón de guardar"
+  },
+  "cancel": {
+    "message": "Cancelar",
+    "description": "Botón de cancelar"
+  },
+  "restrictedPageTitle": {
+    "message": "Esta página no se puede abrir en el panel lateral",
+    "description": "Título para el mensaje de página restringida"
+  },
+  "restrictedPageDescription": {
+    "message": "Gmail, Google Drive y algunos sitios seguros están restringidos en el panel lateral por razones de seguridad.",
+    "description": "Descripción para página restringida"
+  },
+  "openInRegularTab": {
+    "message": "Por favor, abra esta página en una pestaña normal.",
+    "description": "Instrucción para página restringida"
+  },
+  "searchWeb": {
+    "message": "Buscar en la Web",
+    "description": "Título de la sección de búsqueda web"
+  },
+  "searchPlaceholder": {
+    "message": "Buscar en la web...",
+    "description": "Marcador de posición para la entrada de búsqueda"
+  },
+  "errorLoadingPage": {
+    "message": "Esta página no funciona correctamente en el panel lateral.",
+    "description": "Mensaje de error cuando la página no se carga"
+  },
+  "restrictedSites": {
+    "message": "Gmail, Google Drive y algunos sitios seguros pueden estar restringidos en el panel lateral.",
+    "description": "Explicación para el error de carga de página"
+  },
+  "retry": {
+    "message": "Reintentar",
+    "description": "Botón de reintentar"
+  },
+  "welcomeNotificationTitle": {
+    "message": "Administrador de Pestañas del Panel Lateral",
+    "description": "Título para la notificación de bienvenida"
+  },
+  "welcomeNotificationMessage": {
+    "message": "Extensión instalada con éxito. Haga clic en el icono de la extensión para abrir pestañas en el panel lateral.",
+    "description": "Mensaje para la notificación de bienvenida"
+  },
+  "restrictedNotificationTitle": {
+    "message": "Administrador de Pestañas del Panel Lateral",
+    "description": "Título para la notificación de página restringida"
+  },
+  "restrictedNotificationMessage": {
+    "message": "Esta página no se puede abrir en el panel lateral.",
+    "description": "Mensaje para la notificación de página restringida"
+  }
+}
+

@@ -1,0 +1,127 @@
+{
+  "extensionName": {
+    "message": "サイドパネルタブマネージャー",
+    "description": "拡張機能の名前"
+  },
+  "extensionDescription": {
+    "message": "より良いマルチタスクのためにChromeのサイドパネルでタブを開く",
+    "description": "拡張機能の説明"
+  },
+  "newTab": {
+    "message": "新しいタブ",
+    "description": "新しいタブを作成するためのテキスト"
+  },
+  "welcome": {
+    "message": "サイドパネルタブマネージャーへようこそ",
+    "description": "ウェルカムメッセージ"
+  },
+  "welcomeInstructions": {
+    "message": "サイドパネルで新しいタブを開くには、上の「+」ボタンをクリックしてください",
+    "description": "ウェルカム画面の指示"
+  },
+  "openCurrentTab": {
+    "message": "現在のタブをここで開く",
+    "description": "現在のタブをサイドパネルで開くボタン"
+  },
+  "back": {
+    "message": "戻る",
+    "description": "戻るナビゲーションボタン"
+  },
+  "forward": {
+    "message": "進む",
+    "description": "進むナビゲーションボタン"
+  },
+  "refresh": {
+    "message": "更新",
+    "description": "更新ボタン"
+  },
+  "settings": {
+    "message": "設定",
+    "description": "設定ボタン"
+  },
+  "settingsTitle": {
+    "message": "設定",
+    "description": "設定ページのタイトル"
+  },
+  "searchEngine": {
+    "message": "検索エンジン",
+    "description": "検索エンジン設定セクション"
+  },
+  "defaultSearchEngine": {
+    "message": "デフォルト検索エンジン：",
+    "description": "デフォルト検索エンジン設定のラベル"
+  },
+  "appearance": {
+    "message": "外観",
+    "description": "外観設定セクション"
+  },
+  "theme": {
+    "message": "テーマ：",
+    "description": "テーマ設定のラベル"
+  },
+  "light": {
+    "message": "ライト",
+    "description": "ライトテーマオプション"
+  },
+  "dark": {
+    "message": "ダーク",
+    "description": "ダークテーマオプション"
+  },
+  "save": {
+    "message": "保存",
+    "description": "保存ボタン"
+  },
+  "cancel": {
+    "message": "キャンセル",
+    "description": "キャンセルボタン"
+  },
+  "restrictedPageTitle": {
+    "message": "このページはサイドパネルで開くことができません",
+    "description": "制限されたページメッセージのタイトル"
+  },
+  "restrictedPageDescription": {
+    "message": "Gmail、Google Driveおよび一部の安全なサイトは、セキュリティ上の理由からサイドパネルで制限されています。",
+    "description": "制限されたページの説明"
+  },
+  "openInRegularTab": {
+    "message": "このページを通常のタブで開いてください。",
+    "description": "制限されたページの指示"
+  },
+  "searchWeb": {
+    "message": "ウェブを検索",
+    "description": "ウェブ検索セクションのタイトル"
+  },
+  "searchPlaceholder": {
+    "message": "ウェブを検索...",
+    "description": "検索入力のプレースホルダー"
+  },
+  "errorLoadingPage": {
+    "message": "このページはサイドパネルで正しく動作していません。",
+    "description": "ページが読み込めない場合のエラーメッセージ"
+  },
+  "restrictedSites": {
+    "message": "Gmail、Google Driveおよび一部の安全なサイトはサイドパネルで制限されている場合があります。",
+    "description": "ページ読み込みエラーの説明"
+  },
+  "retry": {
+    "message": "再試行",
+    "description": "再試行ボタン"
+  },
+  "welcomeNotificationTitle": {
+    "message": "サイドパネルタブマネージャー",
+    "description": "ウェルカム通知のタイトル"
+  },
+  "welcomeNotificationMessage": {
+    "message": "拡張機能が正常にインストールされました。サイドパネルでタブを開くには、拡張機能のアイコンをクリックしてください。",
+    "description": "ウェルカム通知のメッセージ"
+  },
+  "restrictedNotificationTitle": {
+    "message": "サイドパネルタブマネージャー",
+    "description": "制限されたページ通知のタイトル"
+  },
+  "restrictedNotificationMessage": {
+    "message": "このページはサイドパネルで開くことができません。",
+    "description": "制限されたページ通知のメッセージ"
+  }
+}
+

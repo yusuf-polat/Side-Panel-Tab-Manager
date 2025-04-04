@@ -1,0 +1,127 @@
+{
+  "extensionName": {
+    "message": "Gestore Schede Pannello Laterale",
+    "description": "Il nome dell'estensione"
+  },
+  "extensionDescription": {
+    "message": "Apri schede nel pannello laterale di Chrome per un migliore multitasking",
+    "description": "La descrizione dell'estensione"
+  },
+  "newTab": {
+    "message": "Nuova Scheda",
+    "description": "Testo per creare una nuova scheda"
+  },
+  "welcome": {
+    "message": "Benvenuto nel Gestore Schede Pannello Laterale",
+    "description": "Messaggio di benvenuto"
+  },
+  "welcomeInstructions": {
+    "message": "Clicca sul pulsante '+' sopra per aprire una nuova scheda nel pannello laterale",
+    "description": "Istruzioni nella schermata di benvenuto"
+  },
+  "openCurrentTab": {
+    "message": "Apri Scheda Corrente Qui",
+    "description": "Pulsante per aprire la scheda corrente nel pannello laterale"
+  },
+  "back": {
+    "message": "Indietro",
+    "description": "Pulsante di navigazione indietro"
+  },
+  "forward": {
+    "message": "Avanti",
+    "description": "Pulsante di navigazione avanti"
+  },
+  "refresh": {
+    "message": "Aggiorna",
+    "description": "Pulsante di aggiornamento"
+  },
+  "settings": {
+    "message": "Impostazioni",
+    "description": "Pulsante impostazioni"
+  },
+  "settingsTitle": {
+    "message": "Impostazioni",
+    "description": "Titolo per la pagina delle impostazioni"
+  },
+  "searchEngine": {
+    "message": "Motore di Ricerca",
+    "description": "Sezione impostazioni motore di ricerca"
+  },
+  "defaultSearchEngine": {
+    "message": "Motore di Ricerca Predefinito:",
+    "description": "Etichetta per l'impostazione del motore di ricerca predefinito"
+  },
+  "appearance": {
+    "message": "Aspetto",
+    "description": "Sezione impostazioni aspetto"
+  },
+  "theme": {
+    "message": "Tema:",
+    "description": "Etichetta per l'impostazione del tema"
+  },
+  "light": {
+    "message": "Chiaro",
+    "description": "Opzione tema chiaro"
+  },
+  "dark": {
+    "message": "Scuro",
+    "description": "Opzione tema scuro"
+  },
+  "save": {
+    "message": "Salva",
+    "description": "Pulsante salva"
+  },
+  "cancel": {
+    "message": "Annulla",
+    "description": "Pulsante annulla"
+  },
+  "restrictedPageTitle": {
+    "message": "Questa pagina non può essere aperta nel pannello laterale",
+    "description": "Titolo per il messaggio di pagina limitata"
+  },
+  "restrictedPageDescription": {
+    "message": "Gmail, Google Drive e alcuni siti sicuri sono limitati nel pannello laterale per motivi di sicurezza.",
+    "description": "Descrizione per pagina limitata"
+  },
+  "openInRegularTab": {
+    "message": "Si prega di aprire questa pagina in una scheda normale.",
+    "description": "Istruzione per pagina limitata"
+  },
+  "searchWeb": {
+    "message": "Cerca nel Web",
+    "description": "Titolo sezione ricerca web"
+  },
+  "searchPlaceholder": {
+    "message": "Cerca nel web...",
+    "description": "Placeholder per input di ricerca"
+  },
+  "errorLoadingPage": {
+    "message": "Questa pagina non funziona correttamente nel pannello laterale.",
+    "description": "Messaggio di errore quando la pagina non si carica"
+  },
+  "restrictedSites": {
+    "message": "Gmail, Google Drive e alcuni siti sicuri potrebbero essere limitati nel pannello laterale.",
+    "description": "Spiegazione per errore di caricamento pagina"
+  },
+  "retry": {
+    "message": "Riprova",
+    "description": "Pulsante riprova"
+  },
+  "welcomeNotificationTitle": {
+    "message": "Gestore Schede Pannello Laterale",
+    "description": "Titolo per notifica di benvenuto"
+  },
+  "welcomeNotificationMessage": {
+    "message": "Estensione installata con successo. Clicca sull'icona dell'estensione per aprire schede nel pannello laterale.",
+    "description": "Messaggio per notifica di benvenuto"
+  },
+  "restrictedNotificationTitle": {
+    "message": "Gestore Schede Pannello Laterale",
+    "description": "Titolo per notifica di pagina limitata"
+  },
+  "restrictedNotificationMessage": {
+    "message": "Questa pagina non può essere aperta nel pannello laterale.",
+    "description": "Messaggio per notifica di pagina limitata"
+  }
+}
+

@@ -1,0 +1,127 @@
+{
+  "extensionName": {
+    "message": "مدير علامات التبويب للوحة الجانبية",
+    "description": "اسم الإضافة"
+  },
+  "extensionDescription": {
+    "message": "افتح علامات التبويب في اللوحة الجانبية لكروم لتعدد المهام بشكل أفضل",
+    "description": "وصف الإضافة"
+  },
+  "newTab": {
+    "message": "علامة تبويب جديدة",
+    "description": "نص لإنشاء علامة تبويب جديدة"
+  },
+  "welcome": {
+    "message": "مرحبًا بك في مدير علامات التبويب للوحة الجانبية",
+    "description": "رسالة الترحيب"
+  },
+  "welcomeInstructions": {
+    "message": "انقر على زر '+' أعلاه لفتح علامة تبويب جديدة في اللوحة الجانبية",
+    "description": "تعليمات على شاشة الترحيب"
+  },
+  "openCurrentTab": {
+    "message": "فتح علامة التبويب الحالية هنا",
+    "description": "زر لفتح علامة التبويب الحالية في اللوحة الجانبية"
+  },
+  "back": {
+    "message": "رجوع",
+    "description": "زر التنقل للخلف"
+  },
+  "forward": {
+    "message": "للأمام",
+    "description": "زر التنقل للأمام"
+  },
+  "refresh": {
+    "message": "تحديث",
+    "description": "زر التحديث"
+  },
+  "settings": {
+    "message": "الإعدادات",
+    "description": "زر الإعدادات"
+  },
+  "settingsTitle": {
+    "message": "الإعدادات",
+    "description": "عنوان لصفحة الإعدادات"
+  },
+  "searchEngine": {
+    "message": "محرك البحث",
+    "description": "قسم إعدادات محرك البحث"
+  },
+  "defaultSearchEngine": {
+    "message": "محرك البحث الافتراضي:",
+    "description": "تسمية لإعداد محرك البحث الافتراضي"
+  },
+  "appearance": {
+    "message": "المظهر",
+    "description": "قسم إعدادات المظهر"
+  },
+  "theme": {
+    "message": "السمة:",
+    "description": "تسمية لإعداد السمة"
+  },
+  "light": {
+    "message": "فاتح",
+    "description": "خيار السمة الفاتحة"
+  },
+  "dark": {
+    "message": "داكن",
+    "description": "خيار السمة الداكنة"
+  },
+  "save": {
+    "message": "حفظ",
+    "description": "زر الحفظ"
+  },
+  "cancel": {
+    "message": "إلغاء",
+    "description": "زر الإلغاء"
+  },
+  "restrictedPageTitle": {
+    "message": "لا يمكن فتح هذه الصفحة في اللوحة الجانبية",
+    "description": "عنوان لرسالة الصفحة المقيدة"
+  },
+  "restrictedPageDescription": {
+    "message": "Gmail و Google Drive وبعض المواقع الآمنة مقيدة في اللوحة الجانبية لأسباب أمنية.",
+    "description": "وصف للصفحة المقيدة"
+  },
+  "openInRegularTab": {
+    "message": "يرجى فتح هذه الصفحة في علامة تبويب عادية.",
+    "description": "تعليمات للصفحة المقيدة"
+  },
+  "searchWeb": {
+    "message": "البحث في الويب",
+    "description": "عنوان قسم البحث في الويب"
+  },
+  "searchPlaceholder": {
+    "message": "البحث في الويب...",
+    "description": "نص توضيحي لإدخال البحث"
+  },
+  "errorLoadingPage": {
+    "message": "هذه الصفحة لا تعمل بشكل صحيح في اللوحة الجانبية.",
+    "description": "رسالة خطأ عند فشل تحميل الصفحة"
+  },
+  "restrictedSites": {
+    "message": "قد تكون Gmail و Google Drive وبعض المواقع الآمنة مقيدة في اللوحة الجانبية.",
+    "description": "شرح لخطأ تحميل الصفحة"
+  },
+  "retry": {
+    "message": "إعادة المحاولة",
+    "description": "زر إعادة المحاولة"
+  },
+  "welcomeNotificationTitle": {
+    "message": "مدير علامات التبويب للوحة الجانبية",
+    "description": "عنوان لإشعار الترحيب"
+  },
+  "welcomeNotificationMessage": {
+    "message": "تم تثبيت الإضافة بنجاح. انقر على أيقونة الإضافة لفتح علامات التبويب في اللوحة الجانبية.",
+    "description": "رسالة لإشعار الترحيب"
+  },
+  "restrictedNotificationTitle": {
+    "message": "مدير علامات التبويب للوحة الجانبية",
+    "description": "عنوان لإشعار الصفحة المقيدة"
+  },
+  "restrictedNotificationMessage": {
+    "message": "لا يمكن فتح هذه الصفحة في اللوحة الجانبية.",
+    "description": "رسالة لإشعار الصفحة المقيدة"
+  }
+}
+

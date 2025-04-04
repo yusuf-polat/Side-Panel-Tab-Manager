@@ -1,0 +1,127 @@
+{
+  "extensionName": {
+    "message": "Gerenciador de Abas do Painel Lateral",
+    "description": "O nome da extensão"
+  },
+  "extensionDescription": {
+    "message": "Abra abas no painel lateral do Chrome para melhor multitarefa",
+    "description": "A descrição da extensão"
+  },
+  "newTab": {
+    "message": "Nova Aba",
+    "description": "Texto para criar uma nova aba"
+  },
+  "welcome": {
+    "message": "Bem-vindo ao Gerenciador de Abas do Painel Lateral",
+    "description": "Mensagem de boas-vindas"
+  },
+  "welcomeInstructions": {
+    "message": "Clique no botão '+' acima para abrir uma nova aba no painel lateral",
+    "description": "Instruções na tela de boas-vindas"
+  },
+  "openCurrentTab": {
+    "message": "Abrir Aba Atual Aqui",
+    "description": "Botão para abrir a aba atual no painel lateral"
+  },
+  "back": {
+    "message": "Voltar",
+    "description": "Botão de navegação para trás"
+  },
+  "forward": {
+    "message": "Avançar",
+    "description": "Botão de navegação para frente"
+  },
+  "refresh": {
+    "message": "Atualizar",
+    "description": "Botão de atualização"
+  },
+  "settings": {
+    "message": "Configurações",
+    "description": "Botão de configurações"
+  },
+  "settingsTitle": {
+    "message": "Configurações",
+    "description": "Título para a página de configurações"
+  },
+  "searchEngine": {
+    "message": "Motor de Busca",
+    "description": "Seção de configurações do motor de busca"
+  },
+  "defaultSearchEngine": {
+    "message": "Motor de Busca Padrão:",
+    "description": "Rótulo para configuração do motor de busca padrão"
+  },
+  "appearance": {
+    "message": "Aparência",
+    "description": "Seção de configurações de aparência"
+  },
+  "theme": {
+    "message": "Tema:",
+    "description": "Rótulo para configuração de tema"
+  },
+  "light": {
+    "message": "Claro",
+    "description": "Opção de tema claro"
+  },
+  "dark": {
+    "message": "Escuro",
+    "description": "Opção de tema escuro"
+  },
+  "save": {
+    "message": "Salvar",
+    "description": "Botão de salvar"
+  },
+  "cancel": {
+    "message": "Cancelar",
+    "description": "Botão de cancelar"
+  },
+  "restrictedPageTitle": {
+    "message": "Esta página não pode ser aberta no painel lateral",
+    "description": "Título para mensagem de página restrita"
+  },
+  "restrictedPageDescription": {
+    "message": "Gmail, Google Drive e alguns sites seguros são restritos no painel lateral por motivos de segurança.",
+    "description": "Descrição para página restrita"
+  },
+  "openInRegularTab": {
+    "message": "Por favor, abra esta página em uma aba normal.",
+    "description": "Instrução para página restrita"
+  },
+  "searchWeb": {
+    "message": "Pesquisar na Web",
+    "description": "Título da seção de pesquisa na web"
+  },
+  "searchPlaceholder": {
+    "message": "Pesquisar na web...",
+    "description": "Placeholder para entrada de pesquisa"
+  },
+  "errorLoadingPage": {
+    "message": "Esta página não está funcionando corretamente no painel lateral.",
+    "description": "Mensagem de erro quando a página falha ao carregar"
+  },
+  "restrictedSites": {
+    "message": "Gmail, Google Drive e alguns sites seguros podem ser restritos no painel lateral.",
+    "description": "Explicação para erro de carregamento de página"
+  },
+  "retry": {
+    "message": "Tentar novamente",
+    "description": "Botão de tentar novamente"
+  },
+  "welcomeNotificationTitle": {
+    "message": "Gerenciador de Abas do Painel Lateral",
+    "description": "Título para notificação de boas-vindas"
+  },
+  "welcomeNotificationMessage": {
+    "message": "Extensão instalada com sucesso. Clique no ícone da extensão para abrir abas no painel lateral.",
+    "description": "Mensagem para notificação de boas-vindas"
+  },
+  "restrictedNotificationTitle": {
+    "message": "Gerenciador de Abas do Painel Lateral",
+    "description": "Título para notificação de página restrita"
+  },
+  "restrictedNotificationMessage": {
+    "message": "Esta página não pode ser aberta no painel lateral.",
+    "description": "Mensagem para notificação de página restrita"
+  }
+}
+

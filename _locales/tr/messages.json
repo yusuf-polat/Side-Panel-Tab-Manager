@@ -1,0 +1,127 @@
+{
+  "extensionName": {
+    "message": "Yan Panel Sekme Yöneticisi",
+    "description": "The name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Daha iyi çoklu görev için sekmeleri Chrome'un yan panelinde açın",
+    "description": "The description of the extension"
+  },
+  "newTab": {
+    "message": "Yeni Sekme",
+    "description": "Text for creating a new tab"
+  },
+  "welcome": {
+    "message": "Side Panel Tab Manager'a Hoş Geldiniz",
+    "description": "Welcome message"
+  },
+  "welcomeInstructions": {
+    "message": "Yan panelde yeni bir sekme açmak için yukarıdaki '+' düğmesine tıklayın",
+    "description": "Instructions on the welcome screen"
+  },
+  "openCurrentTab": {
+    "message": "Mevcut Sekmeyi Burada Aç",
+    "description": "Button to open the current tab in side panel"
+  },
+  "back": {
+    "message": "Geri",
+    "description": "Back navigation button"
+  },
+  "forward": {
+    "message": "İleri",
+    "description": "Forward navigation button"
+  },
+  "refresh": {
+    "message": "Yenile",
+    "description": "Refresh button"
+  },
+  "settings": {
+    "message": "Ayarlar",
+    "description": "Settings button"
+  },
+  "settingsTitle": {
+    "message": "Ayarlar",
+    "description": "Title for settings page"
+  },
+  "searchEngine": {
+    "message": "Arama Motoru",
+    "description": "Search engine settings section"
+  },
+  "defaultSearchEngine": {
+    "message": "Varsayılan Arama Motoru:",
+    "description": "Label for default search engine setting"
+  },
+  "appearance": {
+    "message": "Görünüm",
+    "description": "Appearance settings section"
+  },
+  "theme": {
+    "message": "Tema:",
+    "description": "Label for theme setting"
+  },
+  "light": {
+    "message": "Açık",
+    "description": "Light theme option"
+  },
+  "dark": {
+    "message": "Koyu",
+    "description": "Dark theme option"
+  },
+  "save": {
+    "message": "Kaydet",
+    "description": "Save button"
+  },
+  "cancel": {
+    "message": "İptal",
+    "description": "Cancel button"
+  },
+  "restrictedPageTitle": {
+    "message": "Bu sayfa yan panelde açılamıyor",
+    "description": "Title for restricted page message"
+  },
+  "restrictedPageDescription": {
+    "message": "Gmail, Google Drive ve bazı güvenli siteler güvenlik nedeniyle yan panelde kısıtlanmıştır.",
+    "description": "Description for restricted page"
+  },
+  "openInRegularTab": {
+    "message": "Lütfen bu sayfayı normal bir sekmede açın.",
+    "description": "Instruction for restricted page"
+  },
+  "searchWeb": {
+    "message": "Web'de Ara",
+    "description": "Search web section title"
+  },
+  "searchPlaceholder": {
+    "message": "Web'de ara...",
+    "description": "Placeholder for search input"
+  },
+  "errorLoadingPage": {
+    "message": "Bu sayfa yan panelde düzgün çalışmıyor.",
+    "description": "Error message when page fails to load"
+  },
+  "restrictedSites": {
+    "message": "Gmail, Google Drive ve bazı güvenli siteler yan panelde kısıtlanmış olabilir.",
+    "description": "Explanation for page load error"
+  },
+  "retry": {
+    "message": "Yeniden Dene",
+    "description": "Retry button"
+  },
+  "welcomeNotificationTitle": {
+    "message": "Yan Panel Sekme Yöneticisi",
+    "description": "Title for welcome notification"
+  },
+  "welcomeNotificationMessage": {
+    "message": "Uzantı başarıyla yüklendi. Sekmeleri yan panelde açmak için uzantı simgesine tıklayın.",
+    "description": "Message for welcome notification"
+  },
+  "restrictedNotificationTitle": {
+    "message": "Yan Panel Sekme Yöneticisi",
+    "description": "Title for restricted page notification"
+  },
+  "restrictedNotificationMessage": {
+    "message": "Bu sayfa yan panelde açılamaz.",
+    "description": "Message for restricted page notification"
+  }
+}
+
