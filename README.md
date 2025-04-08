@@ -1,3 +1,5 @@
+https://chromewebstore.google.com/detail/bbdoioaggkpnnkdjcjlcoalhlgbkikpk?utm_source=item-share-cb
+
 **Side Panel Tab Manager -- Multilingual Productivity Tool**\
 The Side Panel Tab Manager is an innovative extension that enhances your productivity by allowing you to open and manage web pages directly within the side panel of your Chrome browser. With its multilingual interface designed for international users, it appeals to people from all around the world.
 
